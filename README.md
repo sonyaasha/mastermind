@@ -41,3 +41,7 @@ When user inputs a color that does not match the secret color, the peg remains u
 * Help button allows the user to see the instructions
 * Close button appears after the Help button and returns the user to the main scene
 * Ability to choose levels through buttons
+
+## Mastermind Visual
+![Mastermind Main](./images/mastermind-main.png)
+![Mastermind Game](./images/mastermind-game.png)
