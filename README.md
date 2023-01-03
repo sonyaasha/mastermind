@@ -27,5 +27,18 @@ When user inputs a color that matches the position and the color, the peg is whi
 
 When user inputs a color that matches the color but not the position, the peg is black.
 
-When user inputs a color that does not match the secret color, the peg remains uncolored.\
+When user inputs a color that does not match the secret color, the peg remains uncolored.
+
 @author Sofia Toropova
+
+## Extra Features
+* Scene is programmatically drawn
+* Number of color options (on the right) and the size of the rectangle under the colors programmatically change size based on level
+* When the row of circles is filled by the user, the user is not allowed to click on any colored circle until he has checked his guess
+* If user enters guess and then clicks on colored circles before checking his guess, program will tell the user "Check Your Guess"
+* Check button appears when user has inputed his whole guess
+* After Check button is clicked, program lets the user know how many attempts are left
+* Restart button allows the user to restart the game at any point
+* Help button allows the user to see the instructions
+* Close button appears after the Help button and returns the user to the main scene
+* Ability to choose levels through buttons
